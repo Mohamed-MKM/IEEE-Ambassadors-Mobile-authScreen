@@ -47,6 +47,7 @@ class _SignInPageState extends State<SignInPage> {
               ],
             ),
           ),
+
           Align(
             alignment: Alignment.topCenter,
             child: Padding(
